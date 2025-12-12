@@ -13,3 +13,4 @@ proportion and screening of free scenic spots.ipynb
 free scenic spots with a score of 4.8 or above.ipynb
 Score distribution and provinces distribution.ipynb
 Emotional distribution.ipynb
+3,000 scenic spots province matching.ipynb
